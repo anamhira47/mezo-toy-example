@@ -7,3 +7,23 @@ The code demonstrates the application of MeZO on a quadratic loss function. It u
 This implementation is not optimized for high performance but rather for educational purposes. It is a great starting point for those who want to understand the underlying mechanics of MeZO before diving into more complex and optimized implementations.
 
 
+To run
+
+
+# Create a virtual environment
+python -m venv myenv
+
+# Activate the virtual environment
+source myenv/bin/activate
+
+# Install the requirements
+pip install -r requirements.txt
+
+# Run the example
+python toyexample.py
+
+TODO 
+
+Add further intuiton
+
+Add mnist
