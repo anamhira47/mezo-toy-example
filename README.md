@@ -27,3 +27,11 @@ TODO
 Add further intuiton
 
 Add mnist
+
+OG paper
+
+@article{malladi2023mezo,
+   title={Fine-Tuning Large Language Models with Just Forward Passes},
+   author={Malladi, Sadhika and Gao, Tianyu and Nichani, Eshaan and Damian, Alex and Lee, Jason D and Chen, Danqi and Arora, Sanjeev},
+   year={2023}
+}
