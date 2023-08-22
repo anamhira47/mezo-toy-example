@@ -1,4 +1,4 @@
-# MeZO simple example of a quadratic loss function
+# MeZO toy example
 
 This repository contains a simple and baseline implementation of the Mirror Effecient Zeroth order Optimization (MeZO) algorithm. The purpose of this implementation is to provide a clear and intuitive understanding of how MeZO works.
 
